@@ -1,0 +1,20 @@
+[{
+	"firstName":"NARUTO",
+	"lastName":"papi",
+	"age":23,
+	"marks":[
+	{"english":26},{"math":28}
+	],
+	"address":"hyd",
+},
+{
+
+	"firstName":"shin",
+	"lastName":"chan",
+	"age":2,
+	"marks":[
+	{"english":26},{"math":28}
+	],
+	"address":"hyd",
+}
+]
